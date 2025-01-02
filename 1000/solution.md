@@ -1,5 +1,5 @@
 # **1000 A+B**
-===
+
 * Scanner 라이브러리
     1.	입력 처리 도구로, 사용자 입력이나 파일, 문자열 등 다양한 데이터 소스에서 데이터를 읽을 수 있습니다.
 	2.	대표적으로 키보드 입력을 받아 프로그램에서 처리할 때 자주 사용됩니다.
@@ -9,10 +9,11 @@
 입력받은 데이터를 문자열뿐 아니라, 정수(int), 실수(double), 불리언(boolean) 등 다양한 타입으로 변환할 수 있습니다.
 	2.	구분자(Delimiter) 기반 데이터 읽기
 기본적으로 공백(스페이스, 탭, 엔터)을 기준으로 입력을 분리해 처리합니다.
+
 * Scanner 메서드
     • nextInt(): 정수 입력
 	•	nextDouble(): 실수 입력
 	•	next(): 단어 입력 (공백으로 구분)
 	•	nextLine(): 한 줄 입력
-===
-# **Copyright Migong0311 All rights reserved.**
+
+#### **Copyright Migong0311 All rights reserved.**
